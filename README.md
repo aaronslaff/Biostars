@@ -1,2 +1,2 @@
-# Biostars
-This repo is for sharing my experiences working through the Biostars Handbook by Dr. István Albert
+# Mini Projects
+This repo contains short projects focused on DNA sequence analysis.  
